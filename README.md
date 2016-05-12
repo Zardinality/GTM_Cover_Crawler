@@ -1,2 +1,2 @@
 # GTM_Cover_Crawler
-The name tells it.
+No special handle about speed and connection error.
